@@ -1,0 +1,4 @@
+1. create new termineal : ctrl + shift + p
+2. create a new package to commit : 'git add .'
+3. commit the SAVED documents : 'git commit -m "Name of the commit"'
+4. push the package : "git push"
